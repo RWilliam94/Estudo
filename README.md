@@ -1,2 +1,2 @@
-# Estudo
+# Estudos
 Material de Estudo
